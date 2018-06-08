@@ -1,0 +1,22 @@
+Data Analytics Task :
+a. What is Data Analytics?
+
+Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, while being used in different business, science, and social science domains.
+
+b. What is the difference between Data Analytics and Data Science?
+
+A data scientist is someone who can predict the future based on past patterns whereas a data analyst is someone who merely curates meaningful insights from data. Some applications of machine learning is used in both the fields. Data Analytics as well as data science can be used to make relevant decision that is quantifiable by doing some insights over data.  
+
+c. What is the utility of Data Analytics in Governance, why is it needed in the current times?
+
+Policies and decisions are made traditionally at the legislators own discretion. Data analytics can aid this process in a significant way. Every day in this digital age, tons of relevant data is generated. A government can use this abundant data to make truly people centric policies and decisions.
+
+d. Define a use-case according to your own understanding where Data Analytics can be
+used in Governance? (Build a model using R/Python)
+
+Customers Feedback is Captured using TRAI MyCAll App. Customers rate their experience about voice call quality in real time and help TRAI gather customer experience data along with Network data.
+This use case can be used to generate many useful insights. Digital connect is very much necessary in todays world. A government can for instance, install and stratigically place Wifi points according to the area where the signal strength is weak. Another strategy can be to identify the areas with poor connectivity and change the outreach methods in those areas(since definitely they cannot access social media platforms). 
+We can use this case study to identify and solve many problems related to the telecom sector. A few of these insights are being done by me.
+
+Please refer to the Jupyter notebook(telecoms_review.ipynb) and the pdf files to see the insights which have been made using this data.
+Data Source:  https://data.gov.in/resources/voice-call-quality-feedback-during-may-2018
